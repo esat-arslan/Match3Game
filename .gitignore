@@ -10,8 +10,20 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
 *.log
-
+Library
+Assets/Plugins
+Assets/Casual Game Sounds U6
+Assets/JMO Assets
+Assets/TutorialInfo
+Assets/TextMesh Pro
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
 *.blend1.meta
